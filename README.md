@@ -9,8 +9,10 @@
 <img width="877" height="678" alt="image" src="https://github.com/user-attachments/assets/8cee8d79-a2af-4b2c-9e44-748e258e6335" />
 
 2. **Identificación de *Bloatware***.   
-   <img width="536" height="68" alt="image" src="https://github.com/user-attachments/assets/d8977ee2-01ac-4c3d-86b3-eaf7fb2deda7" />  
-3. **Análisis**.
+   Estos son los tres recursos más pesados que se descargan al abrir la web:
+   <img width="536" height="68" alt="image" src="https://github.com/user-attachments/assets/d8977ee2-01ac-4c3d-86b3-eaf7fb2deda7" />
+   Estas tres son imágenes de fondo.
+4. **Análisis**.
 
 # Fase 2: Dimensión Social y Equidad (S)
 
