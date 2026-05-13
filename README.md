@@ -6,14 +6,17 @@
 
    Vamos a utilizar la herramienta *Lighthouse* que ofrece Google en las herramientas para desarrolladores para poder obtener la huella de carbono estimada por visita a la web.  
      
-   **Para ordenador**
-
-<img width="540" height="433" alt="Captura de pantalla 2026-05-06 135941" src="https://github.com/user-attachments/assets/96b56937-cab5-49ac-8a49-2d961f9998cc" />
-
-**Para móvil**  
-<img width="545" height="432" alt="Captura de pantalla 2026-05-06 140115" src="https://github.com/user-attachments/assets/93551821-a8e1-4451-9111-0b3c746d36f8" />
+<img width="877" height="678" alt="image" src="https://github.com/user-attachments/assets/8cee8d79-a2af-4b2c-9e44-748e258e6335" />
 
 2. **Identificación de *Bloatware***.   
    <img width="536" height="68" alt="image" src="https://github.com/user-attachments/assets/d8977ee2-01ac-4c3d-86b3-eaf7fb2deda7" />  
 3. **Análisis**.
-   
+
+# Fase 2: Dimensión Social y Equidad (S)
+
+1. ## **Test de Accesibilidad**. 
+
+   Para evaluar la accesibilidad que tiene la página web y ver el grado de sostenibilidad social para que pueda ser utilizable por todos los usuarios que entren a la web, vamos a pasar de nuevo la herramienta Lighthouse y marcamos solo accesibilidad.  
+   Este sería el test:  
+   <img width="538" height="320" alt="image" src="https://github.com/user-attachments/assets/59269a4f-4a50-47b4-bfcd-637befcb2de4" />
+
