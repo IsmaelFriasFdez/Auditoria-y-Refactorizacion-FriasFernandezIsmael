@@ -22,4 +22,29 @@
    Para evaluar la accesibilidad que tiene la página web y ver el grado de sostenibilidad social para que pueda ser utilizable por todos los usuarios que entren a la web, vamos a pasar de nuevo la herramienta Lighthouse y marcamos solo accesibilidad.  
    Este sería el test:  
    <img width="538" height="320" alt="image" src="https://github.com/user-attachments/assets/59269a4f-4a50-47b4-bfcd-637befcb2de4" />
+2. ## **Identificación de barreras**.
+   
+
+# Fase 3: Dimensión de Gobernanza y Ética (G)
+
+1. ## **Transparencia**. 
+
+   
+
+2. ## **Datos innecesarios**. 
+
+   
+
+# Fase 4: Propuesta de Refactorización 
+
+* ## **Optimización de activos**. 
+
+ 
+* ## **Reducción de peticiones**.
+
+ 
+* ## **Reflexión sobre la Paradoja de Jevons**.
+
+  
+# Propuesta de refactorización
 
