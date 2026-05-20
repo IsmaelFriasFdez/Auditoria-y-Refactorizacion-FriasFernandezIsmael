@@ -37,13 +37,14 @@ En un aspecto sumamente positivo de gobernanza, la web no incluye formularios co
 # Fase 4: Propuesta de Refactorización 
 
 * ## **Optimización de activos**. 
-
+* Sustituir todos los recursos .jpg y .png por formatos eficientes como **WebP** y **AVIF**, logrando compresiones de hasta un 75% sin sacrificar calidad.   
+  * **Implementación de Lazy Loading nativo:** Diferir la carga de imágenes inferiores hasta que el usuario haga scroll sobre la página, ahorrando así carga y ancho de banda.
  
 * ## **Reducción de peticiones**.
-
+* Depurar y eliminar de forma definitiva el módulo JavaScript corrupto de la galería. En su lugar, se realizará un contenedor estático utilizando CSS, lo que elimina peticiones HTTP fallidas y tiempo de procesamiento en el cliente. 
  
 * ## **Reflexión sobre la Paradoja de Jevons**.
-
+* Al refactorizar, la velocidad de carga de la web será mucho más rápida y el consumo de datos móviles por cliente bajará considerablemente. Esto provocará un efecto positivo para el negocio: la experiencia de usuario óptima disparará la retención de visitas, atrayendo a nuevos usuarios a diario.
   
 # Propuesta de refactorización
 
