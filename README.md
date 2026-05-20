@@ -4,7 +4,7 @@
 
 1. ## **Medición inicial**. 
 
-   Vamos a utilizar la herramienta *Lighthouse* que ofrece Google en las herramientas para desarrolladores para poder obtener la huella de carbono estimada por visita a la web.  
+   Vamos a utilizar la herramienta *Website Carbon Calculator* para poder obtener la huella de carbono estimada por visita a la web.  
      
 <img width="877" height="678" alt="image" src="https://github.com/user-attachments/assets/8cee8d79-a2af-4b2c-9e44-748e258e6335" />
 
