@@ -29,6 +29,7 @@
 # Fase 3: Dimensión de Gobernanza y Ética (G)
 
 1. ## **Transparencia**. 
+<img width="934" height="108" alt="image" src="https://github.com/user-attachments/assets/71974212-17e4-4ea2-9e6b-3c7fc9949068" />
 El banner de consentimiento de cookies presenta formalmente los botones *"Rechazar"* y *"Aceptar"* a primer nivel. Sin embargo, se detecta un patrón oscuro por diseño asimétrico: el botón "Aceptar" está alterado mediante el color corporativo brillante, mientras que el botón "Rechazar" adopta un color gris plano que se camufla visualmente con el fondo oscuro de la interfaz. Esto manipula la atención del usuario e induce psicológicamente a una aceptación masiva e inconsciente de cookies de analítica.
    
 2. ## **Datos innecesarios**. 
