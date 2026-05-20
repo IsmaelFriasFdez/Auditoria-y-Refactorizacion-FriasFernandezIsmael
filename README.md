@@ -29,13 +29,11 @@
 # Fase 3: Dimensión de Gobernanza y Ética (G)
 
 1. ## **Transparencia**. 
-
+El banner de consentimiento de cookies presenta formalmente los botones *"Rechazar"* y *"Aceptar"* a primer nivel. Sin embargo, se detecta un patrón oscuro por diseño asimétrico: el botón "Aceptar" está alterado mediante el color corporativo brillante, mientras que el botón "Rechazar" adopta un color gris plano que se camufla visualmente con el fondo oscuro de la interfaz. Esto manipula la atención del usuario e induce psicológicamente a una aceptación masiva e inconsciente de cookies de analítica.
    
-
 2. ## **Datos innecesarios**. 
-
+En un aspecto sumamente positivo de gobernanza, la web no incluye formularios complejos de registro o contacto que exijan datos personales excesivos o invasivos. Al resolver el flujo de comunicación mediante enlaces directos estáticos (info@smokedburger.es y número de teléfono), la empresa **cumple con el principio de minimización de datos del RGPD**, reduciendo drásticamente la huella de almacenamiento digital en servidores de bases de datos de terceros y blindarse frente a potenciales filtraciones de datos corporativas.
    
-
 # Fase 4: Propuesta de Refactorización 
 
 * ## **Optimización de activos**. 
