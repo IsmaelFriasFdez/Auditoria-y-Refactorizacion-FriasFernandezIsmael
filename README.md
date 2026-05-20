@@ -23,7 +23,8 @@
    Este sería el test:  
    <img width="538" height="320" alt="image" src="https://github.com/user-attachments/assets/59269a4f-4a50-47b4-bfcd-637befcb2de4" />
 2. ## **Identificación de barreras**.
-   
+   **Ausencia de descripción en las imágenes:** Las imágenes de las hamburguesas estrella como *La Pantoja* o *La Niño Prodigio* carecen de texto descriptivo alternativo. Los lectores de pantalla utilizados por personas con diversidad funcional visual leen únicamente el nombre genérico del archivo o ignoran el contexto culinario por completo.  
+   **Dificultad de lectura:** La identidad visual de la marca gira en torno al ahumado, los botones críticos de navegación de la carta como *"VER CARTA"* o *"PEDIR A DOMICILIO"* presentan ratios de contraste texto-fondo. Esto dificulta la legibilidad para usuarios con baja visión o bajo la luz solar directa.
 
 # Fase 3: Dimensión de Gobernanza y Ética (G)
 
