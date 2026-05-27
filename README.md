@@ -64,7 +64,8 @@ Después:
 
 Antes:
 
-| /\* Texto dorado claro sobre fondo gris oscuro ahumado \*/ .btn-ver-carta {     background-color: \#1a1a1a;     color: \#dfc15d;     padding: 12px 24px; } |
+| /\* Texto dorado claro sobre fondo gris oscuro ahumado \*/ 
+.btn-ver-carta {     background-color: \#1a1a1a;     color: \#dfc15d;     padding: 12px 24px; } |
 | :---- |
 
 Después:
