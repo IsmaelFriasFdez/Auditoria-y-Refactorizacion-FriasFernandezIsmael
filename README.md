@@ -48,4 +48,43 @@ En un aspecto sumamente positivo de gobernanza, la web no incluye formularios co
 * Al refactorizar, la velocidad de carga de la web será mucho más rápida y el consumo de datos móviles por cliente bajará considerablemente. Esto provocará un efecto positivo para el negocio: la experiencia de usuario óptima disparará la retención de visitas, atrayendo a nuevos usuarios a diario.
   
 # Propuesta de refactorización
+## Optimización de Imágenes: De JPG/PNG a WebP o AVIF 
 
+Antes:
+
+| \<img src="img/hero-burger.jpg"\> |
+| :---- |
+
+Después:
+
+| \<img src="img/hero-burger.webp" alt="Hamburguesa ahumada" loading="lazy"\>  |
+| :---- |
+
+## Contraste Cromático y Accesibilidad en Botones de Acción 
+
+Antes:
+
+| /\* Texto dorado claro sobre fondo gris oscuro ahumado \*/ .btn-ver-carta {     background-color: \#1a1a1a;     color: \#dfc15d;     padding: 12px 24px; } |
+| :---- |
+
+Después:
+
+| /\* Contraste mejorado aumentando la oscuridad del fondo y la saturación del texto \*/ .btn-ver-carta {     background-color: \#0d0d0d;     color: \#ffdf6d; /\* Tonalidad ajustada para alta legibilidad \*/     font-weight: 700;     padding: 12px 24px;     border: 2px solid \#ffdf6d; } .btn-ver-carta:focus {     outline: 3px solid \#ffdf6d; /\* Facilita la navegación mediante teclado \*/ } |
+| :---- |
+
+Y utilice WAVE para comprobar el código refactorizado:  
+Antes:  
+\<img width="376" height="452" alt="Captura de pantalla 2026-05-27 121514" src="https://github.com/user-attachments/assets/4ab5f09b-fc78-4eae-a1a2-a936fea5e754" /\>  
+Después:  
+\<img width="380" height="459" alt="Captura de pantalla 2026-05-27 121220" src="https://github.com/user-attachments/assets/8ae9f021-bf05-4c26-9ab6-f2e5ce6db866" /\>
+
+# Paradoja de Jevons
+
+Es un fenómeno económico y ecológico que dice: **"Cuanto más eficiente haces un recurso, más aumenta su consumo total"**.
+
+Si optimizas la web para que cargue instantáneamente, la experiencia del usuario será genial. Esto atraerá a muchos más clientes diarios. Si pasas de tener 100 visitas al día a tener 10,000, **el consumo de energía global de la web subirá**, anulando por completo el ahorro energético que habías conseguido con tu código limpio.
+
+Para que el aumento de tráfico no destruya el ahorro energético, debes aplicar dos soluciones técnicas: 
+
+1. **Green Hosting:** Aloja la web en servidores que funcionen con **energía 100% renovable**. Si los servidores usan energía limpia, da igual cuántas miles de visitas reciba la web: la huella de carbono real seguirá siendo cercana a cero.  
+2. **Uso de CDN y Caché:** Guarda copias estáticas de la web en servidores distribuidos geográficamente. Así, cuando un usuario entre a mirar la carta, la web se servirá desde el nodo más cercano a su casa sin necesidad de "despertar" ni poner a trabajar al servidor principal, ahorrando ciclos de computación en la red.
