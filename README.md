@@ -14,7 +14,7 @@
 
    Estas tres son imágenes de fondo.
 3. ## Análisis.
-
+La página web experimenta una notable inflación de software. La web actúa como una landing page cuyo propósito es exponer la carta de hamburguesas, el horario comercial y los datos de contacto del local. Sin embargo, transferir más de 6 MB de datos para una estructura de contenidos tan simple demuestra que la web arrastra una severa "deuda técnica" ecológica. El uso de recursos gráficos gigantescos, librerías de scripts redundantes de terceros y hojas de estilo no minificadas obliga al hardware del cliente a realizar ciclos de computación innecesarios, lo que incrementa exponencialmente el consumo eléctrico y la huella de carbono digital de la empresa local.
 # Fase 2: Dimensión Social y Equidad (S)
 
 1. ## **Test de Accesibilidad**. 
