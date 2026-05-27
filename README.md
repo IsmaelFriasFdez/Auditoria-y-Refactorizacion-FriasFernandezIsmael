@@ -87,9 +87,9 @@ Después:
 
 Y utilice WAVE para comprobar el código refactorizado:  
 Antes:  
-\<img width="376" height="452" alt="Captura de pantalla 2026-05-27 121514" src="https://github.com/user-attachments/assets/4ab5f09b-fc78-4eae-a1a2-a936fea5e754" /\>  
+<img width="376" height="452" alt="Captura de pantalla 2026-05-27 121514" src="https://github.com/user-attachments/assets/4ab5f09b-fc78-4eae-a1a2-a936fea5e754" />  
 Después:  
-\<img width="380" height="459" alt="Captura de pantalla 2026-05-27 121220" src="https://github.com/user-attachments/assets/8ae9f021-bf05-4c26-9ab6-f2e5ce6db866" /\>
+<img width="380" height="459" alt="Captura de pantalla 2026-05-27 121220" src="https://github.com/user-attachments/assets/8ae9f021-bf05-4c26-9ab6-f2e5ce6db866" />
 
 # Paradoja de Jevons
 
