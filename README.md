@@ -62,16 +62,28 @@ Después:
 
 ## Contraste Cromático y Accesibilidad en Botones de Acción 
 
-Antes:
+Antes:  
+/\* Texto dorado claro sobre fondo gris oscuro ahumado \*/  
+.btn-ver-carta {  
+    background-color: \#1a1a1a;  
+    color: \#dfc15d;  
+    padding: 12px 24px;  
+}
 
-| /\* Texto dorado claro sobre fondo gris oscuro ahumado \*/ 
-.btn-ver-carta {     background-color: \#1a1a1a;     color: \#dfc15d;     padding: 12px 24px; } |
-| :---- |
+Después:  
+/\* Contraste mejorado aumentando la oscuridad del fondo y la saturación del texto \*/  
+.btn-ver-carta {  
+    background-color: \#0d0d0d;  
+    color: \#ffdf6d; /\* Tonalidad ajustada para alta legibilidad \*/  
+    font-weight: 700;  
+    padding: 12px 24px;  
+    border: 2px solid \#ffdf6d;  
+}  
+.btn-ver-carta:focus {  
+    outline: 3px solid \#ffdf6d; /\* Facilita la navegación mediante teclado \*/  
+}
 
-Después:
-
-| /\* Contraste mejorado aumentando la oscuridad del fondo y la saturación del texto \*/ .btn-ver-carta {     background-color: \#0d0d0d;     color: \#ffdf6d; /\* Tonalidad ajustada para alta legibilidad \*/     font-weight: 700;     padding: 12px 24px;     border: 2px solid \#ffdf6d; } .btn-ver-carta:focus {     outline: 3px solid \#ffdf6d; /\* Facilita la navegación mediante teclado \*/ } |
-| :---- |
+—---------------------------------------------------------------
 
 Y utilice WAVE para comprobar el código refactorizado:  
 Antes:  
